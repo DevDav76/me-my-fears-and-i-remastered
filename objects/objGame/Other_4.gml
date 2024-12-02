@@ -1,0 +1,1 @@
+if (room==rmGame) audio_stop_sound(mscMenu);
